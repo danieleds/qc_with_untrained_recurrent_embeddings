@@ -1,6 +1,6 @@
 This repository contains the code for the following paper:
 
-"[Question Classification with Untrained Recurrent Embeddings](http://for.unipi.it/daniele_di_sarli/files/2019/11/2019_DiSarli_QuestionClassif.pdf)",  
+"[Question Classification with Untrained Recurrent Embeddings](http://for.unipi.it/daniele_di_sarli/files/2019/11/paper_54.pdf)",  
 D. Di Sarli, C. Gallicchio, A. Micheli,  
 AI*IA 2019 – Advances in Artificial Intelligence.
 
